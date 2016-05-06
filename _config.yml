@@ -9,7 +9,7 @@
 title: Title
 email: ryanzjlib@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  **This is my site**
+  This is my site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
